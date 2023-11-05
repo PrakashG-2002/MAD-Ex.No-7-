@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: P.PRAKASH
+Developed by: P.PRAKASh
 Registeration Number : 212221040126
 */
 ```
@@ -218,10 +218,10 @@ public View getView(int position, View view, ViewGroup parent) {
 ```
 
 ## OUTPUT
-![image](https://github.com/prakash/Moblie-Application-Development/assets/133002193/77de78a6-065d-4bea-9c97-011fd79a9409)
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/77de78a6-065d-4bea-9c97-011fd79a9409)
 
 
-![image](https://github.com/prakash/Moblie-Application-Development/assets/133002193/6ad347c4-aaf9-4f0c-ad65-c6e780a25148)
+![image](https://github.com/Sahithya7/Moblie-Application-Development/assets/133002193/6ad347c4-aaf9-4f0c-ad65-c6e780a25148)
 
 
 ## RESULT
